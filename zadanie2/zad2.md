@@ -12,3 +12,5 @@ inteligencji:
 - symboliczne obliczanie pochodnych,
 - symboliczne całkowanie,
 - kierowanie samochodem.
+
+Stanowisko: Każde z przedstawionych problemów mieści się w jakimś polu AI, sam algorytm jest też wadliwy i się myli, więc równie ciężko określić jak bardzo jest do tego zdatna, jak i nie.
