@@ -66,18 +66,34 @@ i) problemy z utrzymaniem wątków.
 widzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich
 wzajemne odpowiedzi).
 5. Zdenerwuj bota 😊😊
+
 Lista startowa chatbotów:
+
 • cleverbot.com
+
 • www.chatbot4u.com
+
 • www.chatbot.pl
+
 • douweosinga.com
+
 • apps.facebook.com/luxoft_avatar
+
 • chatterboty.pl
+
 • ikea.com.pl (zapytaj Anię)
+
 • www.chatbots.org
+
 • www.snikers.pl
+
 • www.personalityforge.com (hall of fame)
+
 • www.ecreation.pl
+
 • wellbot.tk
+
 • www.inguaris.pl
+
 • tremo.algit.pl
+
