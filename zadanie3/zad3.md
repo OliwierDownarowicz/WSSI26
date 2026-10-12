@@ -7,4 +7,5 @@ maszyny):
 - dyskusja naukowa,
 - odpowiadanie na pytania klientów w telefonicznej infolinii,
 - odpowiadanie na pytania klientów w internetowej infolinii.
+
 Stanowisko: Skuteczność imitacji sztucznych systemów będą zależne od erystyki odbiorcy komunikatów skierowanych przez ów systemy.
